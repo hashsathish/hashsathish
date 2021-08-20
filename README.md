@@ -5,6 +5,8 @@
 
 :wave: Howdy! My day starts with development and ends with development. I love to develop challenging use cases. I always wanted to learn and spread the word about competitive coding. So, I started CodeChef VIT Chennai chapter in my college and improved the coding culture in my college.I am the PRESIDENT of CodeChef VIT Chennai chapter. I have  successfully conducted 4 Technical events and helped 1000s of students in thier path towards competitive Coding along with my team. Besides programming I enjoy :video_game: gaming and 🌆: Travelling.
 
+[![Hashwanth's github stats](https://github-readme-stats.vercel.app/api?username=hashsathish&theme=chartreuse-dark&show_icons=true)](https://github.com/hashsathish)
+
 ## 💻 My Tech Stack
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
