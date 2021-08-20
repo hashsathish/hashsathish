@@ -16,4 +16,6 @@
 | [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)  | [![Corruption-Free-India](https://img.shields.io/static/v1?label=Corruption-Free-India&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/hashsathish/Corruption-Free-India) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
+Practice:Compete:Discuss
+
 [![Hashwanth's github stats](https://github-readme-stats.vercel.app/api?username=hashsathish&theme=chartreuse-dark&show_icons=true)](https://github.com/hashsathish)
